@@ -2,7 +2,7 @@
 # Main code to implement Iris FIS for project 2: part 2
 
 import sys
-sys.path.insert(0, 'C:/Users/josep/OneDrive/Documents/MU Fall 2022/CS 4770/Fuzzy/code')
+sys.path.insert(0, 'PATH TO fuzzLibrary')
 
 from fuzzLibrary import *
 
